@@ -1,0 +1,1 @@
+local a=Instance.new("ScreenGui")a.Parent=game.Players.LocalPlayer:WaitForChild("PlayerGui")local b=Instance.new("TextLabel")b.Parent=a b.Size=UDim2.new(1,0,1,0)b.Position=UDim2.new(0,0,0,0)b.BackgroundTransparency=1 b.Text="ТЫ ПОПАЛ НА ЛОГГЕР СОСАТЬ ХУЙ ТЕБЕ ПИЗДА ЧЕРЕЗ 10МИНУТ АХАХАХАХ" b.TextColor3=Color3.new(1,1,1) b.Font=Enum.Font.SourceSansBold b.TextScaled=true
